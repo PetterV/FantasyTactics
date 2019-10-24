@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<characters>
+	<character>
+		<id>V1</id>
+		<name>villain1_name</name>
+		<level>1</level>
+		<health>20</health>
+		<atk>10</atk>
+		<def>5</def>
+	</character>
+	<character>
+		<id>V2</id>
+		<name>villain2_name</name>
+		<level>1</level>
+		<health>20</health>
+		<atk>5</atk>
+		<def>10</def>
+	</character>
+</characters>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<characters>
+	<character>
+		<id>MC1</id>
+		<name>MC1_name</name>
+		<level>1</level>
+		<health>20</health>
+		<atk>10</atk>
+		<def>5</def>
+	</character>
+	<character>
+		<id>MC2</id>
+		<name>MC2_name</name>
+		<level>1</level>
+		<health>19</health>
+		<atk>5</atk>
+		<def>10</def>
+	</character>
+	<character>
+		<id>MC3</id>
+		<name>MC3_name</name>
+		<level>1</level>
+		<health>18</health>
+		<atk>7</atk>
+		<def>7</def>
+	</character>
+  <character>
+    <id>MC4</id>
+    <name>MC4_name</name>
+    <level>1</level>
+    <health>12</health>
+    <atk>8</atk>
+    <def>12</def>
+  </character>
+  <character>
+    <id>MC5</id>
+    <name>MC5_name</name>
+    <level>1</level>
+    <health>25</health>
+    <atk>5</atk>
+    <def>7</def>
+  </character>
+</characters>

@@ -1,0 +1,8 @@
+{"items":[
+	{"key":"button_start_game","value":"Start Game"},
+	{"key":"button_quit_game","value":"Quit"},
+	{"key":"button_load_save_file","value":"Load"},
+	{"key":"button_save_slot_1","value":"Slot 1"},
+	{"key":"button_save_slot_2","value":"Slot 2"},
+	{"key":"button_save_slot_3","value":"Slot 3"}
+]}
